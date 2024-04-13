@@ -1,0 +1,26 @@
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="Ferreteria.com" resolutions="1x" timestamp="1713034571395">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="index.css" crc="181821685" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="163421577" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="168988563" ref="index"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index"/>
+    <file name="require.js" crc="244322403" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="kisspng-klein-tools-hand-tool-power-tool-pliers-5b0c09f53d0f235108077615275156372501.jpg" crc="4284001726" seo="true" ref="index"/>
+    <file name="png-transparent-router-table-skil-router-table-table-saws-table-furniture-text-logo-thumbnail.jpg" crc="148672562" seo="true" ref="index"/>
+    <file name="canasta_compras_verde_lacobacha-crop-u189.jpg" crc="350199869" ref="index"/>
+    <file name="ferreteria4-800x630-crop-u199.jpg" crc="3944662110" ref="index"/>
+    <file name="images.jpg" crc="312013364" seo="true" ref="index"/>
+    <file name="images (1).jpg" crc="480383396" seo="true" ref="index"/>
+    <file name="208570-d.jpg" crc="536802738" seo="true" ref="index"/>
+    <file name="images (2).jpg" crc="110036016" seo="true" ref="index"/>
+    <file name="istockphoto-1322673846-612x612.jpg" crc="168291985" seo="true" ref="index"/>
+  </folder>
+  <file name="index.html" crc="4147338533" seo="true" mt="1712431579891" redirect="true"/>
+</manifest>
